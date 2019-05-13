@@ -13,6 +13,7 @@ OpenNebula Core
 Storage
 --------------------------------------------------------------------------------
 - `Allows user to modify block size for dd commands used for Ceph, Fs and LVM datastore drivers <https://github.com/OpenNebula/one/issues/2808>`_.
+- `Allows user to enable trash for Ceph <https://github.com/OpenNebula/one/issues/3147>`_.
 
 Networking
 --------------------------------------------------------------------------------
