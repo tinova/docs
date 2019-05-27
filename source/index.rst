@@ -7,7 +7,7 @@ OpenNebula 5.9.80 Documentation
 .. toctree::
    :maxdepth: 2
 
-   Introduction and Release Notes <intro_release_notes/index>
+   Introduction and Release Notes <intro_release_notes/indexfailvaba>
    Deployment Guide <deployment/index>
    Operation Guide <operation/index>
    Advanced Components Guide <advanced_components/index>
@@ -15,4 +15,3 @@ OpenNebula 5.9.80 Documentation
 
 .. raw:: html
    :file: toc.html
-
