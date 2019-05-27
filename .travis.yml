@@ -17,7 +17,7 @@
 dist: xenial
 language: python
 install:
-  - pip install sphinx sphinx_rtd_theme sphinx-prompt
+  - pip install sphinx sphinx_rtd_theme sphinx-prompt pyyaml
 
 script:
   - make html
