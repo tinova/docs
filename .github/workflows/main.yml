@@ -8,7 +8,7 @@
 
      steps:
      - name: URLs-checker
-       uses: actions/URLs-checker@master
+       uses: SuperKogito/URLs-checker@master
        with:
          # The project base path.
          git_path: https://github.com/tinova/docs
